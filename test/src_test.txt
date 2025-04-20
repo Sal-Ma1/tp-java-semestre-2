@@ -1,0 +1,5 @@
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\test\\src\\Clavier.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\test\\src\\exercice1.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\test\\src\\exercice2.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\test\\src\\exercice3.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\test\\src\\test.java"

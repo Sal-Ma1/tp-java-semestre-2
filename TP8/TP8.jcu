@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>TP8</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>TP8</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\TP8.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\ex7.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\ex3.java.sdk</path>
+			<symbols>
+				<symbol>ex3</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\exemple.java.sdk</path>
+			<symbols>
+				<symbol>ex1</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\TP8.java.sdk</path>
+			<symbols>
+				<symbol>TP8</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\ex7.java.sdk</path>
+			<symbols>
+				<symbol>ex7</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TP8</label>
+		<id>73</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>TP8.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TP8.jcp</path>
+		</project>
+	</projects>
+</workspace>

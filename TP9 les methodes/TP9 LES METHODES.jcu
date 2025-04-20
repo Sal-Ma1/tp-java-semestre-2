@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>TP9 LES METHODES</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>TP9 LES METHODES</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\TP9_LES_METHODES.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Exemple1.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Exemple2.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\Ex1.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>..\TP8 CHN CAR\TP8\src\ex1.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>src\Ex2.java.sdk</path>
+			<symbols>
+				<symbol>Ex2</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\Ex1.java.sdk</path>
+			<symbols>
+				<symbol>Ex1</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\Exemple2.java.sdk</path>
+			<symbols>
+				<symbol>Exemple2</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

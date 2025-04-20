@@ -1,0 +1,6 @@
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\TP9 LES METHODES\\src\\Clavier.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\TP9 LES METHODES\\src\\Ex1.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\TP9 LES METHODES\\src\\Ex2.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\TP9 LES METHODES\\src\\Exemple1.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\TP9 LES METHODES\\src\\Exemple2.java"
+"C:\\Users\\ASUS\\Desktop\\chahedchaabene_TP java\\TP9 LES METHODES\\src\\TP9_LES_METHODES.java"
